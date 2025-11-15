@@ -1,5 +1,8 @@
 # kelompok6-alstrk-KELOMPOK6-
 kelompok6
-nama : fahri
+Nama : Muhammad fahri abdulloh 
 nim : 10224001
-Garut
+kelas: if 3 c 
+matkul : algoritma dan struktur data 
+alamat : garut 
+nomer hp : 085821131945
