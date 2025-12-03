@@ -6,3 +6,4 @@ kelas: if 3 c
 matkul : algoritma dan struktur data 
 alamat : garut 
 nomer hp : 085821131945
+asal pesantren : ponpes cipasung 
